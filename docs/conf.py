@@ -1,0 +1,6 @@
+master_doc = 'index'
+project = 'pystarter'
+copyright = '2017, Evan Mattiza'
+author = 'Evan Mattiza'
+language = 'English'
+html_theme = 'nature'
