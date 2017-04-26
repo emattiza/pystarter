@@ -25,6 +25,6 @@ a series of units to easily handle each specific action (init repo, EDITOR open
 README, choose license from jinja template, create docs/tests folders, setup.py
 creation, and requirements).
 
-Pexpect_: https://pexpect.readthedocs.io/en/stable/
-PyTest_: https://docs.pytest.org/en/latest/
-PythonGuide_: http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/
+.. _Pexpect_: https://pexpect.readthedocs.io/en/stable/
+.. _PyTest_: https://docs.pytest.org/en/latest/
+.. _PythonGuide_: http://python-guide-pt-br.readthedocs.io/en/latest/writing/structure/
